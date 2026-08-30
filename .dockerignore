@@ -1,0 +1,15 @@
+.git
+.venv
+.venv39
+.python39
+__pycache__
+*.pyc
+*.pyo
+*.exe
+*.zip
+*.tgz
+*.tmp
+DATA
+checkpoints
+outputs
+fairseq

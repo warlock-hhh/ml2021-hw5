@@ -1,0 +1,32 @@
+# Local Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Training data and generated artifacts
+DATA/
+checkpoints/
+outputs/
+*.pt
+*.bin
+*.idx
+
+# Local installers and archives
+*.exe
+*.zip
+*.7z
+*.tar
+*.tgz
+*.gz
+
+# Course-provided materials kept locally only
+範例/
+HW05作業講解.pdf
+HW05.pdf
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
