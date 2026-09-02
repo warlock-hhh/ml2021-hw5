@@ -1,4 +1,10 @@
 .git
+.env
+.env.*
+*.key
+*.pem
+kaggle.json
+credentials*.json
 .venv
 .venv39
 .python39
